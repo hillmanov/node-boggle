@@ -1,0 +1,18 @@
+{
+  "author": "Scott Hillman <hillmanov@gmail.com>",
+  "name": "node-boggle",
+  "description": "A boggle solver written in node",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hillmanov/node-boggle.git"
+  },
+  "dependencies": {
+    "mocha": ""
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
