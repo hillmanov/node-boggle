@@ -6,7 +6,7 @@ describe("Test the boggle solver", function() {
       letters: ['b', 'e', 'r', 't', 'g', 'h', 'n', 'm', 'a', 'e', 'w', 'p', 'l', 'e', 't', 'f'],
       minWordLength: 3
     }, function(err, data) {
-      console.log(err, data);
+      console.log(err, data, data.length);
       done();
     });
   })
